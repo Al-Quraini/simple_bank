@@ -22,7 +22,7 @@ jobs:
       - name: Set up Go 1.x
         uses: actions/setup-go@v3
         with:
-          go-version: go1.17.5 darwin/amd64
+          go-version: go1.17
         id: go
 
 
